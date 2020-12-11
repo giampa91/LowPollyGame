@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3244a02c5dd1cc2419b2fc0dadf8d41c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - canvasMainScene: {fileID: 6598630276260932885, guid: b66fb3ab749f22260970bbcd524a9567,
+      type: 3}
+  - canvasLoadScene: {fileID: 4527310536195808018, guid: bba82aaf4423511d483896404b2a6962,
+      type: 3}
+  - canvasPauseMenu: {fileID: 6598630276260932885, guid: 5a0476db5fe3a42d8996a543722ff836,
+      type: 3}
+  - canvasDeathMenu: {fileID: 6598630276260932885, guid: a2180ec0cd4fd504cb6ad5cbd2a5ccef,
+      type: 3}
+  - dialogManager: {instanceID: 0}
+  - canvasUI: {fileID: 4136981472160667620, guid: 5f9799959e7a07f40b9c08272856d556,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

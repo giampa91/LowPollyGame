@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5457778817551059552
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5457778817551059555}
+  - component: {fileID: 5457778817629116411}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5457778817551059555
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5457778817551059552}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 96.57981, y: 0.8389106, z: 65.01037}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5457778817629116411
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5457778817551059552}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b564c21ef44bf243b9d90d21aac90c0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  GemsRed: 0
+  GemsBlue: 0
+  healthNumber: 0
+  contatoreMessage: 0
+  textGemsRed: {fileID: 0}
+  textGemsBlue: {fileID: 0}
+  txtTimer: {fileID: 0}
+  textHealthNumber: {fileID: 0}
+  txtDialog: {fileID: 0}
+  isGameOver: 0
+  dialogActive: 0
+  dialogArrayActive: 0
+  energyHealthBar: {fileID: 0}
+  thePlayer: {fileID: 0}
+  stageTimer: 0
+  energyHealth: 0
+  gamePaused: 0
+  canvas: {fileID: 0}
+  canvasMenu: {fileID: 0}
+  canvasDialog: {fileID: 0}

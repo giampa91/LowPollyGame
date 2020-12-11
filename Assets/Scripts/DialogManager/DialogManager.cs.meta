@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b55ae28c03a01cd29a93703ad716c31e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - nextMessageSound: {instanceID: 0}
+  - warningSound: {instanceID: 0}
+  - dialogText: {instanceID: 0}
+  - canvasDialog: {fileID: 224482319294747288, guid: 34a58bc0c56e1434281abffbefbc01fa,
+      type: 3}
+  - menuManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
